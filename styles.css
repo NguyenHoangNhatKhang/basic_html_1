@@ -1,0 +1,82 @@
+/* Note: An id name cannot start with a number!
+
+
+
+h1 {
+color:red;
+text-align: center;
+}
+
+h3.gioithieugithub {
+color : red;
+text-align : center;
+}
+
+h3.large {
+font-size : 300%;
+}
+
+* {
+text-align : center; 
+}
+
+h1 , h2 , p {
+color :red;     
+}
+
+h1 , h2, p {
+color:black ; 
+}
+
+h1 , h2 , p {
+border : 2px green solid ; 
+}
+
+h1 , h2 , p {
+background-color : lightblue; 
+}
+
+h1 , h2 , p {
+background-color:lightblue;
+opacity: 0.5;
+}
+
+
+body {
+font-family:sans-serif;
+text-transform:uppercase; 
+font-style:italic;
+}
+
+html {
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpthtn2m0AYNZYCyjM4PWaxlsS2l3MY9_-GA&s");
+background-repeat: no-repeat;
+background-size: cover; 
+background-position: center bottom;
+height : 100%; 
+}
+
+
+html {
+font-size : 20px; 
+}
+
+
+h1 {
+font-size: 5rem;
+} */
+
+
+/* 
+/* h1 {
+font-size : 2rem; 
+/* font-weight: 800; */
+/* font-style : italic;
+font-style : bold; 
+font-style : semi-bold;  
+font-family : Arial, Helvetica, sans-serif;
+text-align : center; 
+text-transform :lowercase;
+text-decoration : underline; 
+ */
+

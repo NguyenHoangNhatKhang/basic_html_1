@@ -1,0 +1,29 @@
+p {
+color : red;
+font-size: 20px;
+}
+
+h1 {
+color: blue;
+}
+
+#text {
+color: black;
+}
+.doanvan {
+color:black;
+}
+
+.doanvan3 {
+font-style:italic;
+font-weight:bold;
+}
+
+.item_ul_1 {
+list-style:none;
+}
+
+
+* {
+font-size:2rem;
+}
